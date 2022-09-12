@@ -40,5 +40,11 @@ export const Students = [
     name: 'Valeriia Khrol',
     age: 23,
     isMarried: false,
+  },
+  {
+    id: 7,
+    name: 'Nikita Panchenko',
+    age: 23,
+    isMarried: false,
   }
 ]
