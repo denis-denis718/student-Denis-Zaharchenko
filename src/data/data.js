@@ -70,5 +70,5 @@ export const Students = [
     name: 'Anastasia Platunova',
     age: 28,
     isMarried: true,
-  }  
+  }
 ]
