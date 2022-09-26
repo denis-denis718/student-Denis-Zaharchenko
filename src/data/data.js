@@ -78,8 +78,8 @@ export const Students = [
     isMarried: false,
   },
   {
-  id: 13,
-  name: 'Denis Jakimov',
-  isMarried: false,
+    id: 13,
+    name: 'Denis Jakimov',
+    isMarried: false,
   }
 ]
